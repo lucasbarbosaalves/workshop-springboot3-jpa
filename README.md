@@ -6,6 +6,10 @@ Projeto de um sistema de WorkShop utilizando Java com o Spring Framework e JPA p
 
 [![diagrama-UMLWork-Shop.png](https://i.postimg.cc/sDpXwvYh/diagrama-UMLWork-Shop.png)](https://postimg.cc/bswpvYFy)
 
+## Tecnologias utilizadas
+
+[![tecnologias-Work-Shop.png](https://i.postimg.cc/DyyvdBwt/tecnologias-Work-Shop.png)](https://postimg.cc/Z02zJP3c)
+
 
 ## Autor
 
